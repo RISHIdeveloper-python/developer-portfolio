@@ -1,36 +1,74 @@
-Hi, I'm RISHI 👋
+👋 Hi, I'm RISHI
 
-Python Developer | Software Engineering | Automation
+Python Developer | Software Engineer | Automation & Problem Solving
 
-I'm an aspiring software developer interested in building practical, reliable and well-tested software solutions.
+I enjoy designing, developing and testing software solutions that solve practical technical problems.
 
-I enjoy solving technical problems, exploring software architecture and developing tools that address real-world challenges.
+My focus is on writing reliable code, understanding complex problems, building useful tools and improving software quality through structured testing.
 
-🛠️ Technical Interests
+🚀 What I Work On
 
-- Python Development
-- Software Engineering
-- Automation
-- Debugging and Testing
-- Defensive Cybersecurity
-- Problem Solving
+- Python Development — Custom scripts, utilities and applications.
+- Automation — Tools that reduce repetitive manual work.
+- Debugging — Identifying, investigating and fixing software issues.
+- Software Engineering — Designing structured and maintainable solutions.
+- Testing & Quality Assurance — Unit testing, integration testing and validation.
+- Defensive Cybersecurity — Security-focused code analysis and defensive tooling.
+- Problem Solving — Breaking complex technical problems into manageable solutions.
 
-🚀 Projects
+🛠️ Technical Skills
 
-I'm building and documenting software projects focused on reliability, security and practical engineering.
+- Python
+- Object-Oriented Programming
+- Data Structures and Algorithms
+- File Handling
+- JSON Processing
+- Error Handling
+- Unit Testing
+- Software Architecture
+- Secure Coding Practices
 
-More project demonstrations will be added as they become ready for public release.
+💻 Projects
 
-🎯 My Goals
+I develop practical software projects with an emphasis on:
 
-- Build useful software for real-world problems.
-- Develop reliable automation tools.
-- Improve software quality through testing.
-- Collaborate on meaningful development projects.
+- Reliability
+- Security
+- Maintainability
+- Reproducible testing
+- Clear documentation
 
-🤝 Collaboration
+Explore my repositories to see my actual implementations and project progress.
 
-I'm interested in learning from developers and exploring practical software development opportunities.
+🤝 Development Services
 
-Feel free to explore my public repositories!# developer-portfolio
-My software development portfolio, showcasing Python projects, automation and engineering solutions.
+Areas I am interested in working on:
+
+- Python automation scripts
+- Custom software utilities
+- Python bug fixing and debugging
+- File processing applications
+- Testing and quality improvements
+- Small business software tools
+- Defensive code reviews
+
+Project scope, feasibility and delivery requirements are discussed before accepting work.
+
+📈 My Engineering Principles
+
+- Evidence over claims.
+- Correctness over appearances.
+- Testing before delivery.
+- Clear documentation.
+- No unnecessary complexity.
+- Continuous improvement.
+
+🤝 Let's Build Useful Software
+
+I'm interested in learning from developers, collaborating on suitable projects and solving practical software engineering problems.
+
+For legitimate project inquiries, please use the contact arrangements listed in my profile or repository.
+
+---
+
+Building better software, one verified solution at a time.
